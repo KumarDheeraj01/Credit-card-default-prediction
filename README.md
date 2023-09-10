@@ -76,3 +76,11 @@ Random Forest Classifier has the best value of f1 score of 84%
 Random Forest Classifier has the best value of Roc_auc score of 84%
 Random Forest Classifier gave the highest importance to Dues then to payment value and then to limit balance columns accordingly
 Random Forest Classifier had average fitting time of 1.67 according to cross validate method of sklearn This proves Random Forest Classifier algorithm has perfectly fitted all the dataset.
+In our dataset, We used many algorithm like Logistic Regression,Support vector classsifier,decision tree classifier,XGBoost Classifier,Random Forest Classifier.Random Forest was the best performing algorithm as shown below
+Random Forest Classifier has the best value of accuracy score of 84%
+Random Forest Classifier has the best value of precision score of 84%
+Random Forest Classifier has the best value of recall score of 83%
+Random Forest Classifier has the best value of f1 score of 84%
+Random Forest Classifier has the best value of Roc_auc score of 84%
+Random Forest Classifier gave the highest importance to Dues then to payment value and then to limit balance columns accordingly
+Random Forest Classifier had average fitting time of 1.67 according to cross validate method of sklearn This proves Random Forest Classifier algorithm has perfectly fitted all the dataset.
